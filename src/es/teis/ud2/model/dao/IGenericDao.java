@@ -4,8 +4,9 @@
  */
 package es.teis.ud2.model.dao;
 
-import es.teis.ud2.exceptions.InstanceNotFoundException;
 import java.lang.reflect.ParameterizedType;
+
+import es.teis.rud2.exceptions.InstanceNotFoundException;
 
 /**
  *
